@@ -1,5 +1,3 @@
-Sure! Here's an updated version of the README file without the installation and requirements sections:
-
 ```markdown
 # MLP Classifier for Poker Hand Recognition
 
@@ -8,10 +6,8 @@ This project implements a Multi-Layer Perceptron (MLP) classifier to predict pok
 ## Table of Contents
 - [Features](#features)
 - [Usage](#usage)
-- [Data Source](#data-source)
+- [Data]
 - [Model Evaluation](#model-evaluation)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Features
